@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jay-jatt&label=Profile%20Views&color=00FF41&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Ujjain%E2%80%93Indore%2C%20MP%2C%20India-informational?style=flat&color=00FF41" alt="Location" />
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jayjat6936@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jayjat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/jay-jatt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -88,7 +87,7 @@
 ### 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
-Lovely Professional University (Online) — *Expected Graduation: 2026*
+Lovely Professional University — *Expected Graduation: 2026*
 
 ### 📜 Certifications
 
