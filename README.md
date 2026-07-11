@@ -20,7 +20,7 @@
 ### 🛡️ About Me
 
 - 🔭 Motivated cybersecurity enthusiast working on **penetration testing, web app security & network analysis**
-- 🌱 Currently pursuing **BCA** @ Lovely Professional University (Online) — graduating 2026
+- 🌱 Currently pursuing **BCA** @ Lovely Professional University — graduating 2026
 - 🎯 Practicing on **Hack The Box** & **PortSwigger Web Security Academy**
 - 🧠 Passionate about **ethical hacking**, OWASP Top 10, and continuous learning
 - ⚡ Fun fact: I break web apps for a living (with permission 😄)
