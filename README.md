@@ -81,6 +81,7 @@
 |---|---|
 | 🕸️ **Web Application Penetration Testing** | End-to-end security assessment of vulnerable web apps with documented findings, risk ratings, and remediation recommendations |
 | 🔍 **Network Enumeration Lab** | Scanned internal networks, identified exposed services, and analyzed security weaknesses using Nmap and Wireshark |
+| 🛒 **Toing App — Business Logic Vulnerability Assessment** | Discovered a business logic flaw in Toing's "Found a Cheaper Cart?" promotion (insufficient server-side validation of proof screenshots) that let a manipulated screenshot cut a ₹152 cart to ₹7. Authored a full responsible-disclosure report with root cause, risk rating (High), and remediation steps. [📄 View Report](#) *(add your Drive/GitHub link)* |
 
 ---
 
