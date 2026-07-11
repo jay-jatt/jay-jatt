@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Jat</h1>
-<h3 align="center">Penetration Tester | Cybersecurity Enthusiast</h3>
+<h3 align="center">Penetration Tester | Ethical Hacker</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Breaking+things+to+make+them+secure;Web+App+Security+%7C+Network+Security;OWASP+Top+10+%7C+CTF+Player;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
