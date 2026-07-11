@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvlper&label=Profile%20Views&color=00FF41&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jay-jatt&label=Profile%20Views&color=00FF41&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Ujjain%E2%80%93Indore%2C%20MP%2C%20India-informational?style=flat&color=00FF41" alt="Location" />
 </p>
 
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/dvlper"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayjat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/jay-jatt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -93,18 +93,19 @@ Lovely Professional University (Online) — *Expected Graduation: 2026*
 ### 📜 Certifications
 
 - Penetration Testing & Ethical Hacking Training – WsCube Tech
+  [🔗 View Certificate](https://drive.google.com/file/d/1-6bbyutxwQUGOKo10sFHSKGGmyBKERnj/view?usp=drivesdk)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dvlper&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dvlper&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jay-jatt&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-jatt&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvlper&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay-jatt&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" alt="activity graph" />
 </p>
 
 ---
